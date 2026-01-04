@@ -1,0 +1,48 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Configuring done (4.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world
+[ 50%] [32mBuilding CXX object CMakeFiles/hello_node.dir/src/hello_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable hello_node[0m
+[100%] Built target hello_node
+-- Install configuration: ""
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/lib/ros2_hello_world/hello_node
+-- Set non-toolchain portion of runtime path of "/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/lib/ros2_hello_world/hello_node" to ""
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ament_index/resource_index/package_run_dependencies/ros2_hello_world
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ament_index/resource_index/parent_prefix_path/ros2_hello_world
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/ament_prefix_path.sh
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/ament_prefix_path.dsv
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/path.sh
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/path.dsv
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.bash
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.sh
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.zsh
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.dsv
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/package.dsv
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ament_index/resource_index/packages/ros2_hello_world
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/cmake/ros2_hello_worldConfig.cmake
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/cmake/ros2_hello_worldConfig-version.cmake
+-- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/package.xml

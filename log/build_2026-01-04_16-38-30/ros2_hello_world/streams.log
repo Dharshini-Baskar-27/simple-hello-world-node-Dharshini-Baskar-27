@@ -1,0 +1,54 @@
+[0.013s] Invoking command in '/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main -DCMAKE_INSTALL_PREFIX=/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world
+[0.204s] -- The C compiler identification is GNU 13.3.0
+[1.368s] -- The CXX compiler identification is GNU 13.3.0
+[2.118s] -- Detecting C compiler ABI info
+[2.422s] -- Detecting C compiler ABI info - done
+[2.430s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.430s] -- Detecting C compile features
+[2.431s] -- Detecting C compile features - done
+[2.525s] -- Detecting CXX compiler ABI info
+[2.870s] -- Detecting CXX compiler ABI info - done
+[2.879s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.879s] -- Detecting CXX compile features
+[2.880s] -- Detecting CXX compile features - done
+[2.889s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.044s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.167s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[3.371s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[3.384s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[3.400s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.420s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.511s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[3.514s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[3.601s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[3.805s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.926s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.244s] -- Configuring done (4.2s)
+[4.260s] -- Generating done (0.0s)
+[4.265s] -- Build files have been written to: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world
+[4.276s] Invoked command in '/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main -DCMAKE_INSTALL_PREFIX=/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world
+[4.278s] Invoking command in '/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world -- -j16 -l16
+[4.334s] [ 50%] [32mBuilding CXX object CMakeFiles/hello_node.dir/src/hello_node.cpp.o[0m
+[7.642s] [100%] [32m[1mLinking CXX executable hello_node[0m
+[7.918s] [100%] Built target hello_node
+[7.929s] Invoked command in '/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world -- -j16 -l16
+[7.941s] Invoking command in '/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world
+[7.949s] -- Install configuration: ""
+[7.950s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/lib/ros2_hello_world/hello_node
+[7.950s] -- Set non-toolchain portion of runtime path of "/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/lib/ros2_hello_world/hello_node" to ""
+[7.952s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ament_index/resource_index/package_run_dependencies/ros2_hello_world
+[7.953s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ament_index/resource_index/parent_prefix_path/ros2_hello_world
+[7.954s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/ament_prefix_path.sh
+[7.954s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/ament_prefix_path.dsv
+[7.954s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/path.sh
+[7.955s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/environment/path.dsv
+[7.955s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.bash
+[7.955s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.sh
+[7.955s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.zsh
+[7.955s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/local_setup.dsv
+[7.956s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/package.dsv
+[7.957s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ament_index/resource_index/packages/ros2_hello_world
+[7.959s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/cmake/ros2_hello_worldConfig.cmake
+[7.959s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/cmake/ros2_hello_worldConfig-version.cmake
+[7.960s] -- Installing: /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/install/ros2_hello_world/share/ros2_hello_world/package.xml
+[7.962s] Invoked command in '/home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/dharshini/ros2_ws/src/ros2-aid-simple-hello-world-node-ROS2-Assignment1-main/build/ros2_hello_world
